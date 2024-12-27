@@ -17,9 +17,9 @@ Best Sellirs in Books: [https://react-fundamentals-my-app.netlify.app/](https://
 
 ## Como Rodar o Projeto
 
-1. Clone o repositório:
+1. Clone o repositório (Link para SSH):
    ```bash
-    git clone https://github.com/seu-usuario/best-sellirs-in-books.git
+    git clone git@github.com:damilhome/best-selling-books-react.git
 2. Navegue até a pasta do projeto:
     ```bash
     cd best-sellirs-in-books
